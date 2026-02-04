@@ -1,4 +1,4 @@
-# Plainsound Text
+# Plainsound Type
 
 Plainsound Type is a familty of two typefaces *Plainsound Sans* and *Plainsound Serif*, which integrate Helmholtz-Ellis Just Intonation (HEJI) accidentals, making them ideal for use in articles and musical scores.
 
