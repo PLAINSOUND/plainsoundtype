@@ -6,7 +6,7 @@ Plainsound Type is a family of two typefaces: *Plainsound Sans* (inspired by *Un
 
 *Plainsound Serif* is available in Regular and Italic (accidentals only in Regular).
 
-<!-- ![Specimen](/Specimen.png) -->
+![Specimen](/Specimen.png)
 
 ## Files
 
