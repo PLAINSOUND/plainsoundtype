@@ -4,6 +4,9 @@
 
 See the full interactive specimen at [https://nicholson.plainsound.org/plainsound](https://nicholson.plainsound.org/plainsound).
 
+[](img1.png)
+[](img2.png)
+
 ## Files
 
 Font files are provided in their respective folders in OTF and WOFF2 format.
