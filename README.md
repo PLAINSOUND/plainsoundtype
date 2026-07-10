@@ -1,16 +1,12 @@
 # Plainsound Type
 
-Plainsound Type is a family of two typefaces: *Plainsound Sans* (inspired by *Univers*) and *Plainsound Serif* (inspired by Francesco Griffo’s 15th-century punches), which integrate Helmholtz-Ellis Just Intonation (HEJI) accidentals, making them ideal for use in articles and musical scores.
+“Plainsound” is a sans‑serif type family inspired by the quiet discipline of Adrian Frutiger’s “Univers”. Designed for clarity and versatility, “Plainsound” offers six weights, from Extra Light to Bold, each with an italic counterpart. Integrating many OpenType features as well as Helmholtz-Ellis Just Intonation (HEJI) accidentals, “Plainsound” is ideal for use in articles, instruction pages and musical scores focused on microtonal music.
 
-*Plainsound Sans* is available in Regular, Italic, Bold and Bold Italic (accidentals only in Regular).
-
-*Plainsound Serif* is available in Regular and Italic (accidentals only in Regular).
-
-![Specimen](/Specimen.png)
+See the full interactive specimen at [https://nicholson.plainsound.org/plainsound](https://nicholson.plainsound.org/plainsound).
 
 ## Files
 
-Font files are provided in their respective folders in Opentype format.
+Font files are provided in their respective folders in OTF and WOF2 format.
 
 ## License
 
