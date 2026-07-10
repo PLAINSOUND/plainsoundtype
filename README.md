@@ -4,8 +4,8 @@
 
 See the full interactive specimen at [https://nicholson.plainsound.org/plainsound](https://nicholson.plainsound.org/plainsound).
 
-![](img1.png)
-![](img2.png)
+![Loading...](img1.png)
+![Loading...](img2.png)
 
 ## Files
 
