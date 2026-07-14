@@ -21,9 +21,6 @@ Possibly weights for all three families are:
 - `font-wegith: 600;` for SemiBold
 - `font-wegith: 700;` for Bold
 
-``` 
-
-
 ## Files
 
 Font files are provided in their respective folders in OTF and WOFF2 format.
