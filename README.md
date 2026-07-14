@@ -14,12 +14,12 @@ Then, in CSS: `font-family: "Plainsound", sans-serif;`, `font-family: "Plainsoun
 
 Possibly weights for all three families are:
 
-- `font-wegith: 200;` for Extra Light
-- `font-wegith: 300;` for Light
-- `font-wegith: 400;` for Regular
-- `font-wegith: 500;` for Medium
-- `font-wegith: 600;` for SemiBold
-- `font-wegith: 700;` for Bold
+- `font-weight: 200;` for Extra Light
+- `font-weight: 300;` for Light
+- `font-weight: 400;` for Regular
+- `font-weight: 500;` for Medium
+- `font-weight: 600;` for SemiBold
+- `font-weight: 700;` for Bold
 
 ## Files
 
