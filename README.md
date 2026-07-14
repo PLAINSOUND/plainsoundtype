@@ -7,7 +7,7 @@
 You can use *Plainsound* in your web projects by linking to the stylesheet in your HTML file:
 
 ```
-<link rel="stylesheet" href="https://nicholson.plainsound.org/plainsound/plainsound.css" />
+<link rel="stylesheet" href="https://plainsound.org/plainsoundtype/plainsound.css" />
 ```
 
 Then, in CSS: `font-family: "Plainsound", sans-serif;`, `font-family: "Plainsound SemiCondensed", sans-serif;` or `font-family: "Plainsound Condensed", sans-serif;`.
