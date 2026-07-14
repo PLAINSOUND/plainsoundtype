@@ -28,3 +28,7 @@ Font files are provided in their respective folders in OTF and WOFF2 format.
 ## License
 
 All font files are provided under the SIL Open Font License. See LICENSE for more information.
+
+## Support our work
+
+If you like our open-access content, consider supporting us: [https://ko-fi.com/plainsound](https://ko-fi.com/plainsound).
