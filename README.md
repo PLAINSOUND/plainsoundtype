@@ -1,6 +1,8 @@
 # Plainsound
 
-*Plainsound* is a sans‑serif type family of 36 fonts desgned with a quiet discipline for clarity and versatility. It offers six weights (Extra Light [200], Light [300], Regular [400], Medium [500], SemiBold [600] & Bold [700]) in three widths (Regular [100%], SemiCondensed [90%] & Condensed [80%], each with an italic counterpart at an 8° slant. Integrating many OpenType features as well as Helmholtz-Ellis Just Intonation (HEJI) accidentals, *Plainsound* is ideal for use in articles, instruction pages and musical scores focused on microtonal music.
+*Plainsound* is a sans‑serif type family of 36 fonts desgned with a quiet discipline for clarity and versatility. It offers six weights (Extra Light [200], Light [300], Regular [400], Medium [500], SemiBold [600] & Bold [700]) in three widths (Regular [100%], SemiCondensed [90%] & Condensed [80%]), each with an italic counterpart at an 8° slant. Integrating many OpenType features as well as Helmholtz-Ellis Just Intonation (HEJI) accidentals, *Plainsound* is ideal for use in articles, instruction pages and musical scores focused on microtonal music.
+
+See the specimen at [https://plainsound.org/plainsoundtype/](https://plainsound.org/plainsoundtype/).
 
 ## Web Use
 
