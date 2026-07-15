@@ -29,7 +29,7 @@ Possibly weights for all three families are:
 
 ## Files
 
-Font files are provided in their respective folders in OTF and WOFF2 format.
+Font files are provided in their respective folders in the release as OTF and WOFF2 formats.
 
 ## License
 
